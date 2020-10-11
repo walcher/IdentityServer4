@@ -237,7 +237,8 @@ namespace IdentityServer4
                 Token,
                 UserInfo,
                 Revocation,
-                Authorize
+                Authorize,
+                "Account/Login"
             };
         }
 
