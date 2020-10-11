@@ -236,7 +236,8 @@ namespace IdentityServer4
                 DiscoveryWebKeys,
                 Token,
                 UserInfo,
-                Revocation
+                Revocation,
+                Authorize
             };
         }
 
